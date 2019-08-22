@@ -1,2 +1,2 @@
-# ezswwway.github.io
+# Bohdan Ponomarenko
 esway
